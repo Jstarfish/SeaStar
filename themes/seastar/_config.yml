@@ -4,6 +4,8 @@ menu:
   My Works: /works
   About: /about
   #Tags: /tags
+  JavaEgg: /JavaEgg
+  
 
 rss: /atom.xml
 
@@ -20,8 +22,8 @@ csdn_username: u011870547
 github_username: Jstarfish
 weixin_username: Jerome11479914
 #twitter_username: ehazon
-weibo_username: superdaxin
-zhihu_username: margretz
+weibo_username: 722789353
+zhihu_username: superdaxin
 facebook_username: profile.php?id=100010214377415
 linkedin_username:
 
